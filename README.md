@@ -4,8 +4,6 @@ This project is a React Native application developed for a job interview process
 # Getting Started
 This project is developed using React Native. You can follow the steps below to run the project in your local environment.
 
-Note: Make sure you have completed the React Native - Environment Setup instructions up to the "Creating a new application" step.
-
 ## Requirements
 Node.js (LTS version recommended)
 npm (npm is used instead of Yarn)
