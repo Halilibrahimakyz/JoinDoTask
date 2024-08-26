@@ -44,7 +44,7 @@ npm run android
 yarn android
 ```
 
-### For iOS
+### For iOS (Not tested yet)
 
 ```bash
 # using npm
